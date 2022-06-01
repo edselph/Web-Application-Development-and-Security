@@ -28,3 +28,4 @@ const chairSchema = new Schema ({
 
 module.exports = mongoose.model('chair', chairSchema);
 
+
